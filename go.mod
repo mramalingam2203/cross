@@ -1,4 +1,4 @@
-module source.developers.google.com/p/crested-studio-286918/r/cross.git
+module github.com/mramalingam2203/cross.git
 
 go 1.18
 
